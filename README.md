@@ -13,7 +13,7 @@ Ah, and to set the mood better:
 
 
 Anyway, some of the most important conclusions are:
-- the ElGamal cryptosystem is could be vulnerable as it is based on cyclic groups (reminds of Ceasar cipher)
-- RSA (which is the most used crytosystem now) will be absolutely obsolete once 100% functional quantum computers will be developed.
+- the ElGamal cryptosystem could be vulnerable as it is based on cyclic groups (reminds of Ceasar cipher)
+- RSA (which is the most used crytosystem now) will be absolutely obsolete once 100% functional quantum computers are developed
 
 La evolución no se detiene.
